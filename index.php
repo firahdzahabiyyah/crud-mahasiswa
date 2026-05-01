@@ -176,7 +176,7 @@ if (isset($_GET['getdata'])) {
                     <input type="hidden" name="action" value="hapus">
                     <input type="hidden" name="nim" id="delete_nim">
 
-                    <p>Yakin ingin menghapus data ini?</p>
+                    <p>Yakin ingin menghapus data ini dik?</p>
                 </div>
 
                 <div class="modal-footer">
